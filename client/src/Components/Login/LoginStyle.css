@@ -1,0 +1,26 @@
+.Dialog__container{
+    height: 70vh;
+    width: 90vh;
+}
+.Dialog_container2{
+    display: flex;
+    height: 100%;
+}
+.Dialog_Image{
+  background: #2874f0;
+  background-image: url(https://static-assets-web.flixcart.com/www/linchpin/fk-cp-zion/img/login_img_c4a81e.png) ;
+  background-repeat: no-repeat;
+  background-position: center 85%;
+
+padding: 45px 35px;
+  height: 82%;
+  width: 30%;  
+}
+
+.Dialog__Wrapper{
+    display: flex;
+    flex-direction: column;
+    padding: 25px 35px;
+    flex: 1;
+
+}

@@ -1,0 +1,71 @@
+.appBar{
+    background: #2874f0;
+    height: 55px;
+}
+
+.logo{
+    width: 75px;
+}
+
+.Box{
+    margin-left: 12%;;
+    line-height: 0;
+}
+.Explore{
+    font-size: 10px;
+    font-style: italic;
+}
+
+.PlusImage{
+    width: 10px;
+    height: 10px;
+    margin-left: 4px;
+}
+/*Search Design */
+
+.SearchContainer {
+    background: #fff;
+    width:38%;
+    border-radius: 2px;
+    margin-left: 10px;
+    display: flex;
+}
+
+.InputSearch{
+    padding-left: 20px;
+    width: 100%;
+    font-size: unset;
+
+
+}
+
+.SearchIcon {
+    color: blue;
+    padding: 5px;
+    display: flex;
+}
+/*Custom Icons Design*/
+.CustoButtonWrapper{
+    margin: 0 5% 0 auto;
+}
+
+.CustomIcon{
+    display: flex;
+    margin: 0 3% 0 auto;
+   
+}
+
+.Become{
+    margin-top: 3;
+    width: 135;
+}
+
+.Cart{
+    display: flex;
+    align-items: center;
+}
+
+.loginButton{
+    color: #2874f0;
+}
+
